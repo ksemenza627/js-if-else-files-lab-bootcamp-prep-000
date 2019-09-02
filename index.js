@@ -11,4 +11,3 @@ if (name === "Susan") {
 } else {
   console.log("expected the name to be Susan")
 }
-
