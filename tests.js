@@ -4,7 +4,7 @@ var other_file = require("./other_file.js")
 console.log(index.name);
 console.log(index.height);
 
-if (index.name === "Joe") {
+if (index.name === "Susan") {
     console.log("The name is correct")
 } else {
     console.log("Expected: Susan, Received: "+index.name)
